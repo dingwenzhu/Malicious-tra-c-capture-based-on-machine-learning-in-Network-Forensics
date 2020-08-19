@@ -1,0 +1,37 @@
+TTH CODE AND DATA OF MASTER THESIS
+
+1.The whole project is devided into four parts:Data Capture, Feature Extract,Generate CSV file and Machine learning.
+
+2.Data Capture and Feature Extract is running on Kali Linux, Generate CSV and Machine learning is running on Windows. The code on windows better running on Juptyer Notebook. if there is no Juptyer Notebook, extra libirary need to be installed (pandas,numpy). Running python scripte straightly can also get the result.
+
+3.Data Capture:
+include Normal Date Capture and Malicious Data Capture.
+See the project for specific operation.
+Malicious Date Capture will finally generate three files:
+cobaltstrike_http_header.txt
+empire_http_header.txt
+msf_http_header.txt
+Normal Date Capture will finally generate one file:
+normal_http_header.txt
+All these four file will be the input of Feature Extract.
+
+4.Feature Extract: 
+Use the generated four files to create a total csv file named: total_http_header.csv
+See the project for specific operation.
+
+
+5.Generate CSV:
+Generate different CSV files for different machine learning method based on total_http_header.csv. All gegerated files below:
+create_10_feature_data:
+ include 92 CSV files.
+
+CreateFourKindData:
+include 8 CSV files.
+
+6.Machine Learning
+Include two algorithms:machine learning and decision tree
+
+Usea all CSV files generated in 5th step(total 100 files) as  input to generate the result.
+
+
+Note:all data set has already been created in local dircetory,do not move the file to another direcotry, it will lead to code execute error.
